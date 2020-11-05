@@ -1,0 +1,2 @@
+# ChefBay
+ChefBay CloudFormation Templates
